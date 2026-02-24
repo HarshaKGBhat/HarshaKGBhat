@@ -6,14 +6,13 @@
 I work at the intersection of **machine learning, deep learning, robotics, and LiDAR & camera-based perception**.  
 My research style is hands-on: I love **collecting custom datasets, experimenting with ML/DL/RL models, and deploying them on real robotic hardware** to validate ideas in the physical world.
 
-
 ---
 ## 🧭 What I Do
-
-I believe ideas deserve to fly — not stay trapped on paper.  
-I’ve always been driven to turn concepts into something real, to test them the way you’d fold a paper plane and see how far it goes. Creation matters more to me than untouched imagination.
+I believe ideas deserve to fly, not stay trapped on paper🪽.  
+I’ve always been driven to turn concepts into something real; to test them the way you’d fold a paper plane and see how far it goes. Creation matters more to me than untouched imagination.
 Growing up in a creative environment shaped how I think: question deeply, build boldly, and learn by doing. Whether it’s a research paper, an internship project, or an experiment of my own, I focus on applying knowledge with relevance and purpose.
-I enjoy turning complex ideas into clean, reproducible code — and sharing my learning journey openly.
+I enjoy turning complex ideas into clean, reproducible code and sharing my learning journey openly
+
 ---
 
 ## 🔭 What I’m Currently Working On
