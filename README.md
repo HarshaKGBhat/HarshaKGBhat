@@ -1,9 +1,9 @@
 
 # 👋 hoho!!, I'm *Harsha Keladi Ganapathi*  
 
-### 🚀 Machine Learning Researcher | Robotics & LiDAR Enthusiast | Autonomous Systems | AI | Precision Agriculture
+### 🚀 Data Scientist| Machine Learning Researcher | Robotics & LiDAR Enthusiast | Autonomous Systems | AI | Precision Agriculture
 
-I work at the intersection of **machine learning, deep learning, robotics, and LiDAR & camera-based perception**.  
+I work at the intersection of **Data science, machine learning, deep learning, robotics, and LiDAR & camera-based perception**.  
 My research style is hands-on: I love **collecting custom datasets, experimenting with ML/DL/RL models, and deploying them on real robotic hardware** to validate ideas in the physical world.
 
 ---
