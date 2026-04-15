@@ -37,18 +37,12 @@ I enjoy turning complex ideas into clean, reproducible code and sharing my learn
 ---
 
 ## 🤝 I’m Open to Collaborations On
-- Robotics + ML/DL research  
-- LiDAR perception projects  
-- Reinforcement learning environments  
+- Robotics + ML/DL research
+- Computer Vision/ perception   
+- Localization and Mapping projects  
+- Reinforcement learning environments
+- Autonomous Robotics and Path Planning 
 - Open-source tools/ simulator for autonomous systems  
-
----
-
-## 📂 Featured Repositories (Coming Soon)
-- **LiDAR‑Lab** — full LiDAR processing + hybrid models + RL parking  
-- **Robotics‑Playground** — transforms, filters, SLAM basics  
-- **Daily‑ML‑Snippets** — experiments, utilities, model soups  
-- **Research‑Notes** — paper summaries, ideas, diagrams  
 
 ---
 
